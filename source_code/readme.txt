@@ -1,6 +1,3 @@
-# Virtual_FileSystem
-
-
 To complie myfilesystem.c,      bash myfilesystem.sh
 
 To complie runtest.c,           bash runtest.sh 
